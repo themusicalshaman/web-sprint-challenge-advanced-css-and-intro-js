@@ -215,9 +215,16 @@ console.log(artists[2])
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
 There is a typo in your dataset 😱 The 9th artist, Vincent Van Gogh is currently Vincent Van Dough. Use an array method to fix this issue and console.log() to check your work. */
 
-function changeDough( name ){
-  
+function changeName(//obejcts to be changed?){
+  for(i in array){
+    if(array[i].name.includes(charName)){
+      array[i].weapon = newWeapon;
+    }
+  }
+  return array;
 }
+let newArr = changeWeapon(characters, "Shredder", "Steel Blades")
+console.log(artists[8]);
 
 
 
