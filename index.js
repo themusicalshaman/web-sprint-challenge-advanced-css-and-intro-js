@@ -268,6 +268,7 @@ function removeArtist(/*Your Code Here*/) {
 }
    
 
+
 /**
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 6: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
 Create a function called `addArtist` that can accepts an an array  
